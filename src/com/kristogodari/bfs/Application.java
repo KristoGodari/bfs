@@ -1,4 +1,4 @@
-package bfs;
+package com.kristogodari.bfs;
 
 public class Application {
 

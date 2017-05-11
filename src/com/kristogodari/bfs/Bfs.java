@@ -1,4 +1,4 @@
-package bfs;
+package com.kristogodari.bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
